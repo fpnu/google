@@ -1,0 +1,33 @@
+h1 {
+  margin-top: 230px;
+  font-size: 90px;
+  text-align: center;
+}
+
+h1 span:nth-child(1) {
+  color: #4585f4;
+}
+
+h1 span:nth-child(2) {
+  color: #e74235;
+}
+
+h1 span:nth-child(3) {
+  color: #f2bb13;
+}
+
+h1 span:nth-child(4) {
+  color: #4585f4;
+}
+
+h1 span:nth-child(5) {
+  color: #4fa853;
+}
+
+h1 span:nth-child(6) {
+  color: #e74235;
+}
+
+.search-bar {
+  width: 500px;
+}
